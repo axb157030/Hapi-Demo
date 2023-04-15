@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ext": "ts",
+    "ignore": ["*.test.ts", "*.spec.ts"],
+    "delay": "2",
+    "exec": "npm rum clean & npm run build"
+}
